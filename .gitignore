@@ -6,8 +6,7 @@
 config/*.json
 bin
 lumberjack.lock
-*.log
-*.log.*
+log.*
 go.sum
 conf/in-station-service-schema
 http_server
